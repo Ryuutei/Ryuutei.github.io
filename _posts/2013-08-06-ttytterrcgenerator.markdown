@@ -2,7 +2,6 @@
 layout: post
 published: True
 title: TTYterrc generator
-date: 2013/08/06 21:33:22 +0200
 tags: ruby, tools
 categories: today
 ---
