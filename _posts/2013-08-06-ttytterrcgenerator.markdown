@@ -1,7 +1,7 @@
 ---
 layout: post
 published: True
-title: TTYterrc generator
+title: "TTYterrc generator"
 tags: ruby, tools
 categories: today
 ---
