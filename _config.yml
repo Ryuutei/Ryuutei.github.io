@@ -1,0 +1,7 @@
+name: 龍ジラ
+markdown: redcarpet
+pygments: true
+timezone: Europe/Paris
+future: true
+show_drafts: nil
+
