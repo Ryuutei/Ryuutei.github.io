@@ -2,11 +2,12 @@
 layout: post
 published: True
 title: "TTYterrc generator"
+date: 2013/08/06 21:33:22 +0200
 tags: ruby, tools
 categories: today
 ---
 
-Today I've almost finished my ttytterrc generator in ruby, 
+Today I've almost finished my ttytterrc generator in ruby,
 
 it features:
 
@@ -20,4 +21,6 @@ it features:
 
 Nothing fancy, in fact it's a really dumb script. But I don't like writing regex in the perl way and my location list is getting bigger.
 I'll put it someday on gh.
+
+Voila c'est tout.
 
