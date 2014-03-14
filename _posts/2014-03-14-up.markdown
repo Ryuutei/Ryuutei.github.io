@@ -1,0 +1,18 @@
+---
+layout: post
+published: True
+title: "Up ‼ "
+date: 2014-03-14 06:01:54 PM +0100
+categories: update
+---
+
+I'm currently working on few stuff:
+
+* a Hanzi to pinyin software
+* a dungeon generator for Hammerwatch.
+* a rewrite of my cmusstatusupdate software.
+* getting few skills points in ruby and Go.
+
+I finished last week a ReStructured Text cleaner to build books. I still have to put a licence on it.
+
+␄
