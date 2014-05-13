@@ -1,17 +1,17 @@
 ---
 title: "Remake…"
-date: 2014-05-12T10:47:00
+date: 2014-05-12 11:11:32 PM +0200
 layout: post
 published: True
 tags: news, games, Diablo 2
-categories: update
+categories: 
 ---
 
 Let's do it again.
 
 Today's stuff：
 
-![Diablo 2 magic find](file:///Users/ryuutei/Dropbox/Public/articles/d2-mf_eff.svg)
+![Diablo 2 magic find](https://dl.dropboxusercontent.com/u/16748018/articles/d2-mf_eff.svg)
 
 csg2（the cmus status gatherer）is almost finished, it can tweet stuff correctly, I just need to fix few bugs while generating the initial config files…
 ␄

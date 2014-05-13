@@ -1,0 +1,11 @@
+---
+title: "女番長ロック"
+date: 2014-05-13 01:53:59 AM +0200
+layout: post
+published: True
+tags: subs, dvorak
+categories: stuff
+---
+
+I've finished typing the subtitles of the movie「女番長ロック」as for training with the Dvorak keyboard layout. It was fun, but now I gotta convert to better English.
+␄
