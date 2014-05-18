@@ -11,4 +11,4 @@ Today I've made a big update for my chinese poem site.
 
 And made big efforts to remember the hanzi of 『烂柯人』，now I only need to find it… and being better at chinese to be able to read it. (・ω・)ノ
 
-I've also started a projet in ruby. I howe I will be able to finish it, beause it's really cool.␄
+I've also started a projet in ruby. I hope I will be able to finish it, beause it's really cool.␄
