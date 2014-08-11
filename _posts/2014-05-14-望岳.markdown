@@ -3,7 +3,7 @@ title: "「望岳」"
 date: 2014-05-14 03:36:11 AM +0200
 layout: post
 published: True
-tags: poem, Dufu
+tags: poem, Dufu, chinese
 categories: stuff
 ---
 

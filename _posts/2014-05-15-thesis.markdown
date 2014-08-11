@@ -3,7 +3,7 @@ title: "Thesis＆chinese"
 date: 2014-05-15 11:59:59 AM +0200
 layout: post
 published: True
-tags:
+tags: 
 categories: stuff
 ---
 
@@ -11,3 +11,4 @@ So yeah Yu passed her thesis today, I still don't know if everything went well.
 
 I write a new poem, and printed a new cover for『低俗喜劇』，read few stuff about functional programming. I also found that knowing many words isn't enough to write in chinese, I'm lost when I try to write something, I must work harder ‼␄
 
+–– edit: she got it YEY ‼
