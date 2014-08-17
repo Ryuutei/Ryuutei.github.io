@@ -7,5 +7,5 @@ tags: poem, Dufu, chinese
 categories: stuff
 ---
 
-I transcribed a new [poem](https://dl.dropboxusercontent.com/u/16748018/articles/%E6%9C%9B%E5%B2%B3.html) by 杜甫，now I'll check the pinyin table, learn new words then sleep.
+I transcribed a new [poem](https://dl.dropboxusercontent.com/u/16748018/articles/%E6%9C%9B%E5%B2%B3.html) by 杜甫，now I'll check the pinyin table, learn new words then sleep. ␄
 
