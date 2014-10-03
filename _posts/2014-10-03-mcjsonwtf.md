@@ -94,7 +94,7 @@ __I spend my life in batch & shell scripting, I still new to real coding, but th
 
 The command to spawn the book is:
 
-{% highlight MinecraftCommand %}
+{% highlight json %}
 /give @p Minecraft:written_book 1 0 {title:The Game Theory,author:J.Tirole,pages:["{\"text\": \"\", \"extra\": [{\"text\": \"\n\n\n\n\n      \", \"color\": \"reset\"}, {\"text\": \"The Game Theory\", \"color\": \"reset\", \"underlined\": true, \"bold\": true}, {\"text\": \"\n\n      \", \"color\": \"reset\"}, {\"text\": \"Jean Tirole et al.\n\", \"color\": \"reset\", \"bold\": true}]}", "{\"text\": \"\", \"extra\": [{\"text\": \"page 2...\", \"color\": \"reset\"}]}", "{\"text\": \"\", \"extra\": [{\"text\": \"page 3...\", \"color\": \"reset\"}]}"]}
 {% endhighlight %}
 
