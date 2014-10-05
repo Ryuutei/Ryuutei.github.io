@@ -1,6 +1,6 @@
 ---
 title: "Minecraft — Bin to BDC converter"
-categories: Hardware
+categories: tutorial
 tags:   Minecraft, redstone, binary,
 date:   2014-10-05T04:14:28
 layout: post
