@@ -7,14 +7,15 @@ layout: post
 published: True
 ---
 
-__This is a copy of my original article[『Minecraft — Bin to BDC converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections__
+_This is a copy of my original article[『Minecraft — Bin to BDC converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_
 
-![Minecraft](http://ryuutei.files.wordpress.com/2013/07/Minecraft.png "Minecraft icon")
+_Minecraft beta 1.3+_
+
 
 Last year I used to build my stupid unfinished broken processor  in Minecraft (which I finally downgraded to a weird and big adder :D), I was working on a bin to BCD converter too. Then I found the awesome [Hans Lemurson’s Binary to BCD converter][hl] (who has decimals digits). For my output I copied the visible “bin input to selection rows” and made my own “selection part” and output. Because it’s impossible to see anything in the video… Anyway the most interesting and complex part was done by Hans Lemurson and it’s visible in the video. (my selector is certainly the same as him, because I don’t see any other way to make it in such a compact building.)
 
 
-![Bin to BDC convertor](http://ryuutei.files.wordpress.com/2013/07/b2bcd.jpg)
+![Bin to BDC convertor](https://pbs.twimg.com/media/BzMUDHaCAAAUibv.jpg)
 
 
 # Input & “Algorithm” part:
@@ -28,6 +29,8 @@ The 4 horizontal rows are the binary input. They are easily powered by a torch f
 For example, the first input row will keep the selector rows 2, 4, 6 and 8 powered while the other will be shutdown. (ie. When there is an input, the torchs will not provide power to the selector layer, while the repeaters will.)
 
 
+* * *
+
 
 # ”Selector” part:
 
@@ -40,6 +43,9 @@ From left to right the values of those columns are: `1001`, `1000`, `111`, `110`
 *N.B.* _torches in this level mustn’t have a bloc above, at the risk of powering a line beside, it’s the blocs where sits the repeaters that will bring problems ; I made the mistake inadvertently twice._ ಠ\_ಠ (stupid mistakes)
 
 
+* * *
+
+
 # Output/BCD Line: 
 
 ![Third（bottom）layer of the Binary to BCD converter](http://ryuutei.files.wordpress.com/2013/07/1.png?w=300&h=225 "Third（bottom）layer of the Binary to BCD converter")
@@ -48,6 +54,8 @@ This last layer may be the final binary coded decimal output or, if you want big
 
 There’s nothing special in this layer that need an explanation.
 
+
+* * *
 
 
 # In conclusion，
