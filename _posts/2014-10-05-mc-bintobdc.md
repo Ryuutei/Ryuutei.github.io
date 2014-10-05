@@ -15,12 +15,12 @@ published: True
 Last year I used to build my stupid unfinished broken processor in Minecraft (which I finally downgraded to a weird and big adder (¬\_¬) ), I was working on a bin to BCD converter too. Then I found the awesome [Hans Lemurson’s Binary to BCD converter][hl] (which has decimals digits). For my output I copied the visible “binary input” part and made my own “Add3 part” and output, because it’s impossible to see anything in the video… But it's absolutely not a big deal, the most complex part is to build a compact input and Hans Lemurson made it perfectly. (my Add3 module presented here is certainly the same as him, I don’t see any other way to make it in such a compact building)
 
 
-![Bin to BDC convertor](https://pbs.twimg.com/media/BzMUDHaCAAAUibv.jpg)
+![Bin to BDC convertor](https://pbs.twimg.com/media/BzNJnKZCAAAq7nd.jpg)
 
 
 # Input & “Algorithm” part:
 
-![First（upper）layer of the Binary to BCD converter)](http://ryuutei.files.wordpress.com/2013/07/3.png?w=300&h=225 "First（upper）layer of the Binary to BCD converter")
+![First（upper）layer of the Binary to BCD converter)](https://pbs.twimg.com/media/BzNJmciCEAExQN_.png "First（upper）layer of the Binary to BCD converter")
 
 The upper layer is the main algorithm, that permanently lit the beneath layer when no input is done. (see why in the “Add 3 layer” part)
 
@@ -37,7 +37,7 @@ For example, the first input row will keep the rows `1`, `3`, `5`, `7`＆`9` pow
 
 This layer will "shift" the input or more precisely will add 3 to the value if the input is 5 or greater.
 
-![Second（middle）layer of the Binary to BCD converter（don’t pay attention to the redstone dust crossing）](http://ryuutei.files.wordpress.com/2013/07/2.png?w=300&h=225 "Second（middle）layer of the Binary to BCD converter（don’t pay attention to the redstone dust crossing）")
+![Second（middle）layer of the Binary to BCD converter（don’t pay attention to the redstone dust crossing）](https://pbs.twimg.com/media/BzNJmWzCEAEt0ur.png "Second（middle）layer of the Binary to BCD converter（don’t pay attention to the redstone dust crossing）")
 
 all lines of this layer must be powered when there’s no input. When a line isn’t powered it will light the output (⁖ it’s just a big inverted output.)
 
@@ -67,7 +67,7 @@ The redstone part is self explanatory.
 
 # Output/BCD Line: 
 
-![Third（bottom）layer of the Binary to BCD converter](http://ryuutei.files.wordpress.com/2013/07/1.png?w=300&h=225 "Third（bottom）layer of the Binary to BCD converter")
+![Third（bottom）layer of the Binary to BCD converter](https://pbs.twimg.com/media/BzNJmUcCYAA8FR9.png "Third（bottom）layer of the Binary to BCD converter")
 
 From top to bottom the lines are the returned values of:
 * `0b0001`
