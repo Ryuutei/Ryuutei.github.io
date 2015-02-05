@@ -1,5 +1,5 @@
 ---
-title: "Minecraft — Bin to BDC converter"
+title: "Minecraft — Bin to BCD converter"
 categories: tutorial
 tags:   Minecraft, redstone, binary,
 date:   2014-10-05T04:14:28
@@ -7,7 +7,7 @@ layout: post
 published: True
 ---
 
-**Note：**_This is a copy of my original article[『Minecraft — Bin to BDC converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_
+**Note：**_This is a copy of my original article[『Minecraft — Bin to BCD converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_
 
 **Version：**_Minecraft beta 1.3+_
 
@@ -15,7 +15,7 @@ published: True
 Last year I used to build my stupid unfinished broken processor in Minecraft (which I finally downgraded to a weird and big adder (¬\_¬) ), I was working on a bin to BCD converter too. Then I found the awesome [Hans Lemurson’s Binary to BCD converter][hl] (which has decimals digits). For my output I copied the visible “binary input” part and made my own “Add3 part” and output, because it’s impossible to see anything in the video… But it's absolutely not a big deal, the most complex part is to build a compact input and Hans Lemurson made it perfectly. (my Add3 module presented here is certainly the same as him, I don’t see any other way to make it in such a compact building)
 
 
-![Bin to BDC convertor](https://pbs.twimg.com/media/BzNJnKZCAAAq7nd.jpg)
+![Bin to BCD convertor](https://pbs.twimg.com/media/BzNJnKZCAAAq7nd.jpg)
 
 
 # Input & “Algorithm” part:
@@ -24,7 +24,7 @@ Last year I used to build my stupid unfinished broken processor in Minecraft (wh
 
 The upper layer is the main algorithm, that permanently lit the beneath layer when no input is done. (see why in the “Add 3 layer” part)
 
-The 4 horizontal rows are the binary input, from top to bottom they are the input of the values  `0b0001`, `0b0010`, `0b0100`＆`0b1000`_（this last input is the "eith" which is powered only by a previous Bin to BDC converter）_.
+The 4 horizontal rows are the binary input, from top to bottom they are the input of the values  `0b0001`, `0b0010`, `0b0100`＆`0b1000`_（this last input is the "eith" which is powered only by a previous Bin to BCD converter）_.
 They are easily powered by a torch from above.
 
 For example, the first input row will keep the rows `1`, `3`, `5`, `7`＆`9` powered in the next layer, while the others lines（`2`, `4`, `6`＆`8`）will be off. (⁖ When there is an input, the torches will not provide power to the Add 3 module layer, while the repeaters will)
@@ -75,7 +75,7 @@ From top to bottom the lines are the returned values of:
 * `0b0100`
 * `0b1000`
 
-This last layer may be  a part of the final binary coded decimal output or, if you want a bigger input, more converters must be concatenated.（cf. [John Loomis’ paper “Binary to BCD Converter”][b2bdc]）
+This last layer may be  a part of the final binary coded decimal output or, if you want a bigger input, more converters must be concatenated.（cf. [John Loomis’ paper “Binary to BCD Converter”][b2bcd]）
 
 There’s nothing special in this layer.
 
@@ -92,10 +92,10 @@ this is a really smart construction that let you stack a in a neat way many conv
 # References
 
 * ["Hans Lemurson’s video."][hl]
-* ["bin to BCD converter by John Loomis."][b2bdc]
+* ["bin to BCD converter by John Loomis."][b2bcd]
 
 [hl]: http://youtu.be/Z-JxYhm3EsI "Hans Lemurson’s video."
-[b2bdc]: http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html "bin to BCD converter by John Loomis."
+[b2bcd]: http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html "bin to BCD converter by John Loomis."
 
 ␄
 
