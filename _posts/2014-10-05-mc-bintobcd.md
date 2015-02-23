@@ -93,6 +93,7 @@ this is a really smart construction that let you stack a in a neat way many conv
 
 * ["Hans Lemurson’s video."][hl]
 * ["bin to BCD converter by John Loomis."][b2bcd]
+* Real life "BDC"（sort of） [FranLab：Diode Steering For Displays](http://youtu.be/JNbDdnEpAOQ)
 
 [hl]: http://youtu.be/Z-JxYhm3EsI "Hans Lemurson’s video."
 [b2bcd]: http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html "bin to BCD converter by John Loomis."
