@@ -3,7 +3,7 @@ categories: "Arts"
 published: True
 layout: post
 tags:   subtitles, Tomo
-date:   2014-08-11T11:02:13
+date:   2015-08-16T20:08:34
 title: "女番長ロック，闇に散る花弁〔Sukeban Rock〕English subtitles"
 ---
 
