@@ -23,8 +23,8 @@ Now in a shell:
 {% highlight sh %}
 ➜  unzip terraria-server-mac-1308.zip
 ➜  cd Mac/Terraria\ Server.app/Contents/MacOS
-➜  chmod 755 TerrariaServer.bin.osx`
-➜  chmod 755 TerrariaServer`
+➜  chmod 755 TerrariaServer.bin.osx
+➜  chmod 755 TerrariaServer
 {% endhighlight %}
 
 Edit the `serverconfig.txt` file as your wishes.

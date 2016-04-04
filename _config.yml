@@ -1,6 +1,6 @@
 name: 龍ジラ
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 timezone: Europe/Paris
 future: true
 show_drafts: nil
