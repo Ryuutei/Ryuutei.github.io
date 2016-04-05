@@ -1,7 +1,7 @@
 ---
 title: "How to launch Mac OSX Terraria Server v1.3.0.8"
 categories: Coding with haphazardness
-tags:   shell, game, Terraria
+tags:   ["shell","game","Terraria"]
 date:   2015-08-18T04:19:44
 layout: post
 published: True

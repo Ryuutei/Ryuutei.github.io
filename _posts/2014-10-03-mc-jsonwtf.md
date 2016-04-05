@@ -1,7 +1,7 @@
 ---
 title: "Minecraft JSON WTF…"
 categories: tutorial
-tags:   Minecraft, JSON, rant,
+tags:   ["Minecraft","JSON","rant",]
 date:   2014-10-03T12:48:09
 layout: post
 published: True

@@ -1,9 +1,7 @@
 name: 龍ジラ
-markdown: redcarpet
 highlighter: rouge
 timezone: Europe/Paris
 future: true
 show_drafts: nil
 encoding: utf-8
-timezone: Europe/Paris
 

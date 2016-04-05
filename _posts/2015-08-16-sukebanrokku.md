@@ -2,7 +2,7 @@
 categories: "Arts"
 published: True
 layout: post
-tags:   Tomo, subtitles, creative commons
+tags:   ["Tomo","subtitles","creative commons"]
 date:   2015-08-16T20:08:34
 title: "女番長ロック，闇に散る花弁〔Sukeban Rock〕English subtitles"
 ---
