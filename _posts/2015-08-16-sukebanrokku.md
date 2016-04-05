@@ -1,10 +1,10 @@
 ---
-categories: "Arts"
-published: True
-layout: post
-tags:   ["Tomo","subtitles","creative commons"]
-date:   2015-08-16T20:08:34
-title: "女番長ロック，闇に散る花弁〔Sukeban Rock〕English subtitles"
+published:  True
+categories: Arts
+tags:       ["Tomo", "subtitles", "creative commons"]
+layout:     post
+date:       2015-08-16T20:08:34
+title:      "Sukeban Rock english subtitles"
 ---
 
 Here it is after few years of not working on it all the time.

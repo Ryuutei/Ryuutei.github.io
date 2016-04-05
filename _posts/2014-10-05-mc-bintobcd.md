@@ -1,15 +1,15 @@
 ---
-title: "Minecraft — Bin to BCD converter"
-categories: tutorial
-tags:   ["Minecraft","redstone","binary",]
-date:   2014-10-05T04:14:28
-layout: post
-published: True
+published:  True
+categories: RND
+tags:       ["Minecraft","redstone","binary","tutorial","game"]
+layout:     post
+date:       2014-10-05T04:14:28
+title:      "Minecraft — Bin to BCD converter"
 ---
 
-**Note：**_This is a copy of my original article[『Minecraft — Bin to BCD converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_
+**Note：** _This is a copy of my original article[『Minecraft — Bin to BCD converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_
 
-**Version：**_Minecraft beta 1.3+_
+**Version：** _Minecraft beta 1.3+_
 
 
 Last year I used to build my stupid unfinished broken processor in Minecraft (which I finally downgraded to a weird and big adder (¬\_¬) ), I was working on a bin to BCD converter too. Then I found the awesome [Hans Lemurson’s Binary to BCD converter][hl] (which has decimals digits). For my output I copied the visible “binary input” part and made my own “Add3 part” and output, because it’s impossible to see anything in the video… But it's absolutely not a big deal, the most complex part is to build a compact input and Hans Lemurson made it perfectly. (my Add3 module presented here is certainly the same as him, I don’t see any other way to make it in such a compact building)
@@ -99,4 +99,3 @@ this is a really smart construction that let you stack a in a neat way many conv
 [b2bcd]: http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html "bin to BCD converter by John Loomis."
 
 ␄
-

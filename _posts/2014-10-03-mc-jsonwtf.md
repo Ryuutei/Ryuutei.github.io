@@ -1,10 +1,10 @@
 ---
-title: "Minecraft JSON WTF…"
+published:  false
 categories: tutorial
-tags:   ["Minecraft","JSON","rant",]
-date:   2014-10-03T12:48:09
-layout: post
-published: True
+tags:       ["Minecraft","JSON","rant",]
+layout:     post
+date:       2014-10-03T12:48:09
+title:      "Minecraft JSON WTF…"
 ---
 
 In Minecraft most of things can be created via  a command and a JSON dictionary for example a book.

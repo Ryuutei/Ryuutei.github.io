@@ -1,7 +1,17 @@
-name: 龍ジラ
-highlighter: rouge
-timezone: Europe/Paris
-future: true
-show_drafts: nil
-encoding: utf-8
+# Site settings
+title: 龍ジラ
+email: ryuutei.at.work@gmail.com
+description: "WUBALUBADUBDUB‼"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Ryuutei
+github_username:  Ryuutei
 
+timezone: Europe/Paris
+
+# Build settings
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+show_drafts: nil
+future: true
