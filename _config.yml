@@ -11,7 +11,6 @@ timezone: Europe/Paris
 
 # Build settings
 encoding: utf-8
-markdown: kramdown
 highlighter: rouge
 show_drafts: nil
 future: true
