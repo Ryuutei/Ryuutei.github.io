@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Unicode emoji ideographs"
+date:   2016-06-03
+categories: ["Unicode", "language"]
+---
+
+This is a list of all ideographs inside emoji that may be obtainable through the chinese and japanese input.
+
+:V: ‼️
+:T: ❕
+
+[NOTE]
+====
+{V} = Varies between chinese and japanese
+
+{T} = Traditional / Simplified
+====
+
+
+
+[cols="^,^,^", width="100", options="header", frame="all", grid="all"]
+|=======================
+| Emote | 中文／日本 | Meaning
+| 🈯️ | +++<ruby>指<rt>Zhǐ</rt></ruby>+++ ／ +++<ruby>指<rt>Yubi</rt></ruby>+++ | Finger 3+<| SQUARED CJK UNIFIED IDEOGRAPH-6307 ; Unicode: U+1F22F U+FE0F (U+D83C U+DE2F U+FE0F), UTF-8: F0 9F 88 AF EF B8 8F
+| 🈲 | +++<ruby>禁<rt>Jìn</rt></ruby>+++ ／ +++<ruby>禁<rt>Kin</rt></ruby>+++ | Prohibited 3+<| SQUARED CJK UNIFIED IDEOGRAPH-7981 ; Unicode: U+1F232 (U+D83C U+DE32), UTF-8: F0 9F 88 B2
+| 🈳 | +++<ruby>空<rt>Kōng</rt></ruby>+++ ／ +++<ruby>空<rt>Sora</rt></ruby>+++ | Air, sky 3+<| SQUARED CJK UNIFIED IDEOGRAPH-7A7A ; Unicode: U+1F233 (U+D83C U+DE33), UTF-8: F0 9F 88 B3 
+| 🈴 | +++<ruby>合<rt>Hé</rt></ruby>+++ ／ +++<ruby>合<rt>Gō</rt></ruby>+++ | ? 3+<| SQUARED CJK UNIFIED IDEOGRAPH-5408 ; Unicode: U+1F234 (U+D83C U+DE34), UTF-8: F0 9F 88 B4
+| 🈵 | +++<ruby>満<rt>Mǎn</rt></ruby>+++ ／ +++<ruby>満<rt>Mitsuru</rt></ruby>+++ | Time completion 3+<| SQUARED CJK UNIFIED IDEOGRAPH-6E80 ; Unicode: U+1F235 (U+D83C U+DE35), UTF-8: F0 9F 88 B5
+| 🈹 | +++<ruby>割<rt>Gē</rt></ruby>+++ ／ +++<ruby>割<rt>Wari</rt></ruby>+++ | a cut（as a portion） 3+<| SQUARED CJK UNIFIED IDEOGRAPH-5272 ; Unicode: U+1F239 (U+D83C U+DE39), UTF-8: F0 9F 88 B9
+| 🈺 | +++<ruby>营<rt>Yíng</rt></ruby>+++{V}+++<ruby>営<rt>Yíng</rt></ruby>+++ | Managing 3+<| SQUARED CJK UNIFIED IDEOGRAPH-55B6 ; Unicode: U+1F23A (U+D83C U+DE3A), UTF-8: F0 9F 88 BA
+| 🉐 | +++<ruby>得<rt>Dé</rt></ruby>+++ ／ +++<ruby>得<rt>E</rt></ruby>+++ | Obtained ; in chinese: structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc 3+<| CIRCLED IDEOGRAPH ADVANTAGE ; Unicode: U+1F250 (U+D83C U+DE50), UTF-8: F0 9F 89 90
+| 🈶 | +++<ruby>有<rt>Yǒu</rt></ruby>+++ ／ +++<ruby>有<rt>Yū</rt></ruby>+++ | Have 3+<| SQUARED CJK UNIFIED IDEOGRAPH-6709 ; Unicode: U+1F236 (U+D83C U+DE36), UTF-8: F0 9F 88 B6
+| 🈚️ | +++<ruby>無<rt>Wú</rt></ruby>+++{T}无／ +++<ruby>無<rt>Mu</rt></ruby>+++
+| No 3+<| SQUARED CJK UNIFIED IDEOGRAPH-7121 ; Unicode: U+1F21A U+FE0F (U+D83C U+DE1A U+FE0F), UTF-8: F0 9F 88 9A EF B8 8F
+| 🈷  | +++<ruby>月<rt>Yuè</rt></ruby>+++ ／ +++<ruby>月<rt>Tsuki</rt></ruby>+++
+| Moon, month 3+<| SQUARED CJK UNIFIED IDEOGRAPH-6708 ; Unicode: U+1F237 (U+D83C U+DE37), UTF-8: F0 9F 88 B7
+| 🈸 | +++<ruby>申<rt>Shēn</rt></ruby>+++ ／ +++<ruby>申<rt>Saru</rt></ruby>+++ | ?  3+<| SQUARED CJK UNIFIED IDEOGRAPH-7533 ; Unicode: U+1F238 (U+D83C U+DE38), UTF-8: F0 9F 88 B8
+| 🉑 | +++<ruby>可<rt>Kě</rt></ruby>+++ ／ +++<ruby>可<rt>Ka</rt></ruby>+++ | be able to / yes 3+<| CIRCLED IDEOGRAPH ACCEPT ; Unicode: U+1F251 (U+D83C U+DE51), UTF-8: F0 9F 89 91
+| ㊙️ | +++<ruby>秘<rt>Mì</rt></ruby>+++ ／ +++<ruby>秘<rt>Hi</rt></ruby>+++ | Secret
+3+<| CIRCLED IDEOGRAPH SECRET ; Unicode: U+3299 U+FE0F, UTF-8: E3 8A 99 EF B8 8F
+| ㊗️ | +++<ruby>祝<rt>Zhù</rt></ruby>+++ ／ +++<ruby>祝<rt>Iwai</rt></ruby>+++ | Congratulations
+3+<| CIRCLED IDEOGRAPH CONGRATULATION ; Unicode: U+3297 U+FE0F, UTF-8: E3 8A 97 EF B8 8F
+|=======================
+
