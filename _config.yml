@@ -14,12 +14,12 @@ show_drafts: nil
 future: true
 
 exclude: ["README.md"]
-gems:
-    - jekyll-asciidoc
-asciidoc_ext: txt,asciidoc,adoc,ad
-asciidoctor:
-    attributes:
-        - hardbreaks!
+#gems:
+#    - jekyll-asciidoc
+#asciidoc_ext: txt,asciidoc,adoc,ad
+#asciidoctor:
+#    attributes:
+#        - hardbreaks!
 
 twitter_username: Ryuutei
 github_username:  Ryuutei
