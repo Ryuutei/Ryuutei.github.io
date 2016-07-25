@@ -4,14 +4,23 @@ email: ryuutei.at.work@gmail.com
 description: "WUBALUBADUBDUB‼"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Ryuutei
-github_username:  Ryuutei
 
 timezone: Europe/Paris
 
 # Build settings
 encoding: utf-8
-markdown: kramdown
 highlighter: rouge
 show_drafts: nil
 future: true
+
+exclude: ["README.md"]
+#gems:
+#    - jekyll-asciidoc
+#asciidoc_ext: txt,asciidoc,adoc,ad
+#asciidoctor:
+#    attributes:
+#        - hardbreaks!
+
+twitter_username: Ryuutei
+github_username:  Ryuutei
+gitlab_username:  Ryuutei
