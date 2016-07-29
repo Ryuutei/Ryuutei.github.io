@@ -1,10 +1,10 @@
 ---
-published:  True
+layout:     post
+title:      "How to launch Mac OSX Terraria Server v1.3.0.8"
+date:       2015-08-18
 categories: Coding
 tags:       ["game", "shell", "Terraria"]
-layout:     post
-date:       2015-08-18T04:19:44
-title:      "How to launch Mac OSX Terraria Server v1.3.0.8"
+published:  true
 ---
 
 Few days ago the First Terraria DRM-Free on  Mac OSX & GNU/Linux was released.

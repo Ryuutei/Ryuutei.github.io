@@ -1,10 +1,10 @@
 ---
-published:  True
+layout:     post
+title:      "Minecraft — Bin to BCD converter"
+date:       2014-10-05
 categories: RND
 tags:       ["Minecraft","redstone","binary","tutorial","game"]
-layout:     post
-date:       2014-10-05T04:14:28
-title:      "Minecraft — Bin to BCD converter"
+published:  true
 ---
 
 **Note：** _This is a copy of my original article[『Minecraft — Bin to BCD converter』](http://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/)on wordpress published the 2013-08-10, with few corrections_

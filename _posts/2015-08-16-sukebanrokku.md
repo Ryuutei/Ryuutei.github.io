@@ -1,10 +1,10 @@
 ---
-published:  True
+layout:     post
+title:      "Sukeban Rock english subtitles"
+date:       2015-08-16
 categories: Arts
 tags:       ["Tomo", "subtitles", "creative commons"]
-layout:     post
-date:       2015-08-16T20:08:34
-title:      "Sukeban Rock english subtitles"
+published:  true
 ---
 
 Here it is after few years of not working on it all the time.

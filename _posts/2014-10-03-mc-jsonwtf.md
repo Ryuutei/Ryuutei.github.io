@@ -1,10 +1,10 @@
 ---
-published:  false
+layout:     post
+title:      "Minecraft JSON WTF…"
+date:       2014-10-03
 categories: tutorial
 tags:       ["Minecraft","JSON","rant",]
-layout:     post
-date:       2014-10-03T12:48:09
-title:      "Minecraft JSON WTF…"
+published:  false
 ---
 
 In Minecraft most of things can be created via  a command and a JSON dictionary for example a book.
@@ -103,4 +103,3 @@ So yeah I don't know, is it a Java dev thing to troll people or what ?
 
 Next time we are going to see how to spawn signs.
 ␄
-
